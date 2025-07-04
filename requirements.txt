@@ -1,5 +1,6 @@
 streamlit
-langchain
+langchain==0.1.17
+langchain-community==0.0.32
 faiss-cpu
 pandas
 sentence-transformers
