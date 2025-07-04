@@ -1,0 +1,7 @@
+streamlit
+langchain
+faiss-cpu
+pandas
+sentence-transformers
+transformers
+accelerate
